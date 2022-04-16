@@ -1,0 +1,62 @@
+body {
+    font: 20px, Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #566573;
+}
+
+.equipe {
+    background-color: #ffffff;
+    color: rgb(1, 1, 1);   
+    font-family: arial;    
+}
+
+.quemsomos {
+    background-size:cover;
+    color: #000000;
+    font-size: 15px;
+    font-family: "Helvetica Neue", "Helvetica";
+    
+}
+
+.contatos {
+    background-color: #ffffff;
+}
+
+.social-media i {
+    font-size: 35px;
+    border: 2px solid #414191;
+    width: 60px;
+    height: 60px;
+    text-align: center; 
+    padding: 10px;
+    cursor: pointer;
+    transition: all .3s;
+    border-radius: 50%;
+}
+
+.margin {
+    padding-bottom: 10px;
+    padding-top: 5px;
+ }
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+#text-color {
+    color: #3f4144;    
+}
+
+#text-style {
+    line-height: 1.5;
+    font-size: 20px;    
+}
+
+#text-style-color {
+    color: #007600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
