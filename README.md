@@ -6,4 +6,4 @@ Para a construção dessa landing page foram usadas as seguintes tecbologias?
 * CSS
 * Bootstrap
 
-![EDRA](https://cdn.discordapp.com/attachments/887804120935825438/968614125284495390/unknown.png)
+![EDRA]([https://cdn.discordapp.com/attachments/887804120935825438/968614125284495390/unknown.png](https://cdn.discordapp.com/attachments/887544607599120404/986977466524528750/unknown.png))
